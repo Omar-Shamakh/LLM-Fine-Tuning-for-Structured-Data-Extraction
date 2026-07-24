@@ -1,0 +1,6 @@
+﻿.venv/
+__pycache__/
+*.pyc
+**/checkpoint_models/
+**/checkpoint_models_dryrun/
+.env
